@@ -1,5 +1,5 @@
 # ejercitacion
-ejercicios de la facultad utilizando java
+ejercicios utilizando java
 *Un comercio dedicado al rubro informático requiere visualizar estadísticas sobre sus
 operaciones. El lugar se dedica tanto a vender insumos informáticos como a ofrecer servicios pre y
 post venta.
